@@ -1,3 +1,5 @@
+//Author: Fawaz Alturbaq : 5/6/2017  : fawaz.cs@gmail.com
+
 #include <iostream>
 #include <fstream>
 #include <stack>
